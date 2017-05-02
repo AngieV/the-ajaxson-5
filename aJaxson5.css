@@ -1,0 +1,38 @@
+
+body	{
+	margin-left:20%;
+	margin-right:20%;
+	font-family:Arial; 
+	background-color: lavender;
+}
+h1	{
+	color: orange;
+	background-color: purple;
+	font-family: Impact, "Helvetica Bold", "Arial Bold"; 
+	text-align:center;
+	font-size: 80px;
+	padding: 40px;
+	border-bottom: 7px dotted orange;
+	border-top: 7px dotted orange;
+}
+form {
+	padding: 10px;
+}
+#feedback {
+	color: blue;
+}
+#verify {
+	color: purple;
+	font-weight: bold;
+	padding: 0px 5px 5px 5px;
+}
+img	{
+	border-style: solid;
+ 	border-width: 2px;
+ 	border-color: purple;
+ 	padding: 10px;
+}
+.error	{
+	color:red;
+}
+
